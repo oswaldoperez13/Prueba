@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Elsie:wght@400;900&family=Playpen+Sans+Hebrew:wght@100..800&family=Playpen+Sans+Thai:wght@100..800&family=Playwrite+DE+SAS:wght@100..400&family=Playwrite+NO:wght@100..400&family=Playwrite+VN:wght@100..400&display=swap');
+.Titulo{
+    font-family: "Playpen Sans Thai", cursive;
+    font-size: 30px;
+    color:aqua;
+}
+.Imgen{
+    width: 200px;
+    height: 200px;
+}
+.Centrar{
+   display: flex;
+   flex-direction: row;
+   border: 5px solid black;
+   border-radius: 15px;
+}
+.Orga{
+    flex-direction: column;
+}

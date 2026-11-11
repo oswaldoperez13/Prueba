@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"Carl",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yHuSJxrSpDQgF1RpsTd702hiCY1ONi24LPuwYeVAlQ&s=10",
+        "descripcion": "Carl es un minion muy divertido que disfruta pasando tiempo con sus compañeros minions.",
+        "color":"red"
+    },
+  {
+    "id": 2,
+    "title": "Kevin",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NO9W-sNK3rtGvnP_y1ImW1aVr5IY511vP8X5BC5p9Q&s=10",
+    "descripcion": "Kevin es el minion más alto y suele ser el líder de las misiones más arriesgadas.",
+    "color": "blue"
+  },
+  {
+    "id": 3,
+    "title": "Stuart",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn7ftE92ZMUjrBLyscLG2Z6t0AR5Aeu12-wrvauyhotw&s=10",
+    "descripcion": "Stuart es relajado, le encanta la música y tocar la guitarra en su tiempo libre.",
+    "color": "green"
+  },
+  {
+    "id": 4,
+    "title": "Bob",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SAhLWXVU_atfEWNwlJJQfRRGfmygu59bDiHQU8JSRw&s=10",
+    "descripcion": "Bob es el más pequeño y tierno, siempre anda con su osito de peluche.",
+    "color": "yellow"
+  }
+]
